@@ -8,15 +8,6 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 
 <div align="center">
 
-```
-   ____          _ _             _               
-  / ___|___   __| (_)_ __   __ _| |__   ___  ___ 
- | |   / _ \ / _` | | '_ \ / _` | '_ \ / _ \/ __|
- | |__| (_) | (_| | | | | | (_| | | | |  __/\__ \
-  \____\___/ \__,_|_|_| |_|\__, |_| |_|\___||___/
-                           |___/                 
-```
-
 ✨ *Coding Challenges Vault by Komal Harshita* ✨  
 
 ---
@@ -32,13 +23,13 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 
 ## 💡 What’s inside?
 
-📂 **CoddyTech** → C basics & problem-solving  
+📂 **CoddyTech** → C and Java basics & problem-solving  
 📂 **C for Beginners** → My first steps in C  
 📂 **Python Fundamentals** → Operators, conditionals, loops & more  
 📂 **R Programming** → Stats + Data Analysis 🧮  
 📂 **GeeksforGeeks** → Solutions to classic problems  
 📂 **HackerRank** → Tutorials | Algorithms | DS | Math  
-📂 **LeetCode** → Interview must-haves (Two Sum, Palindrome, Roman → Integer, etc.)  
+📂 **LeetCode** → Interview must-haves 
 📂 **freeCodeCamp** → Fun beginner projects  
 📂 **Udemy Java Bootcamp** → From Java basics to OOP, Multithreading, and DB  
 
@@ -56,7 +47,7 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 | **HackerRank** | 🔜 Ongoing | Algorithms + Data Structures |
 | **LeetCode** | 🔜 Actively solving | Goal: 100 problems by year-end |
 | **freeCodeCamp** | ✅ Small projects done | Explore advanced challenges |
-| **Udemy Java Bootcamp** | 🔜 In progress | Modules 1–3 done |
+| **Udemy Java Bootcamp** |  ✅ Completed basics | Advanced concepts remaining |
 
 ---
 
@@ -81,7 +72,7 @@ This repo is my **personal coding dojo**, where I sharpen skills across language
 ## 🌸 About Me
 
 **Komal Harshita**  
-👩🏻‍💻 CSE Student | Writer | Creative Thinker  
+👩🏻‍💻 CSE Student | Poet | Creative Writer 
 ✨ Exploring data, design, and problem-solving one challenge at a time  
 
 > *"Code like a girl. Build like a boss."* 💖  
