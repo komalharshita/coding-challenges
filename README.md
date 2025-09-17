@@ -1,6 +1,5 @@
 # coding-challenges
 # 👩🏻‍💻 Coding Challenges by me!
-![Coding Banner](coding_banner.png)
 
 Welcome to my little empire of **coding grind + brain gains** 🌸  
 This repo is where I solve challenges, practice languages, and flex my problem-solving muscle.  
