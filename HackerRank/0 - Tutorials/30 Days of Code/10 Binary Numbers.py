@@ -1,10 +1,5 @@
-import math
-import os
-import random
-import re
-import sys
-
 n = int(input())
+
 binary = bin(n)[2:]
 
 count = 0
@@ -16,5 +11,6 @@ for digit in binary:
         max_count = max(max_count, count)
     else:
         count = 0
+    
 
 print(max_count)

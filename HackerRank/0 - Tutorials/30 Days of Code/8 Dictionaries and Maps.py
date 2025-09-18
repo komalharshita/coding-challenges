@@ -1,4 +1,5 @@
 n = int(input().strip())
+
 phonebook = {}
 
 for _ in range(n):
@@ -10,8 +11,9 @@ try:
         search_name = input().strip()
         key = search_name.lower()
         if key in phonebook:
-            print(f"{search_name}={phonebook[key]}")
+            print(f"{search_name} = {phonebook[key]}")
         else:
-            print("Not found")
+            print("Key not found")
+
 except EOFError:
     pass
