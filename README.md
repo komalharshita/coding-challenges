@@ -1,9 +1,8 @@
 # coding-challenges
-# 👩🏻‍💻 Coding Challenges by me!
 
 Welcome to my little empire of **coding grind + brain gains** 🌸  
 This repo is where I solve challenges, practice languages, and flex my problem-solving muscle.  
-From *beginner-friendly scripts* to *platform-based challenges*, it’s all here — organized, neat, and growing with me 🚀  
+From *beginner-friendly scripts* to *platform-based challenges*, it’s all here!
 
 <div align="center">
 
@@ -46,16 +45,7 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 | **HackerRank** | 🔜 Ongoing | Algorithms + Data Structures |
 | **LeetCode** | 🔜 Actively solving | Goal: 100 problems by year-end |
 | **freeCodeCamp** | ✅ Small projects done | Explore advanced challenges |
-| **Udemy Java Bootcamp** |  ✅ Completed basics | Advanced concepts remaining |
-
----
-
-## 🎯 Why this repo?
-
-Because coding isn’t just about solving problems — it’s about *style, consistency, and growth*.  
-This repo is my **personal coding dojo**, where I sharpen skills across languages and platforms.  
-
-> 🌸 *Girls who code, build empires.*  
+| **Udemy Java Bootcamp** |  ✅ Completed basics | Advanced concepts remaining |  
 
 ---
 
@@ -72,6 +62,3 @@ This repo is my **personal coding dojo**, where I sharpen skills across language
 
 **Komal Harshita**  
 👩🏻‍💻 CSE Student | Poet | Creative Writer 
-✨ Exploring data, design, and problem-solving one challenge at a time  
-
-> *"Code like a girl. Build like a boss."* 💖  
