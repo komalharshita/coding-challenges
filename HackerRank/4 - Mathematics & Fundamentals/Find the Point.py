@@ -6,7 +6,6 @@ import sys
 
 def findPoint(px, py, qx, qy):
         return (2*qx - px , 2*qy - py)
-    # Write your code here
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

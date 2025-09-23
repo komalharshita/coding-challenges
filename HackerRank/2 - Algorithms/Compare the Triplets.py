@@ -10,3 +10,10 @@ def compareTriplets(a, b):
                         
         res = [alice, bob]
         return res
+
+
+#to check if the code is correct 
+t1 = [3,5,2]
+t2 = [5,7,2]
+ans = compareTriplets(t1, t2)
+print(ans)
