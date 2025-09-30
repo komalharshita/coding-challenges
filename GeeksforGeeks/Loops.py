@@ -1,3 +1,7 @@
+def multiplicationTable(n):
+    for i in range(1, 11):
+        print(f"{n*i}", end = " ")
+
 n = 4
 for i in range(0, n):
     print(i)
