@@ -29,7 +29,6 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 📂 **HackerRank** → Tutorials | Algorithms | DS | Math  
 📂 **LeetCode** → Interview must-haves 
 📂 **freeCodeCamp** → Fun beginner projects  
-📂 **Udemy Java Bootcamp** → From Java basics to OOP, Multithreading, and DB  
 
 ---
 
@@ -44,8 +43,7 @@ From *beginner-friendly scripts* to *platform-based challenges*, it’s all here
 | **GeeksforGeeks** | 🔜 Ongoing | Cover common interview Qs |
 | **HackerRank** | 🔜 Ongoing | Algorithms + Data Structures |
 | **LeetCode** | 🔜 Actively solving | Goal: 100 problems by year-end |
-| **freeCodeCamp** | ✅ Small projects done | Explore advanced challenges |
-| **Udemy Java Bootcamp** |  ✅ Completed basics | Advanced concepts remaining |  
+| **freeCodeCamp** | ✅ Small projects done | Explore advanced challenges | 
 
 ---
 
