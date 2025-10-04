@@ -1,1 +1,25 @@
-/* Write CSS code here */
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Varela+Round&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Varela Round", sans-serif;
+}
+
+body{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    background-color: #21a0e8 ;
+}
+
+.profile-card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 24px;
+    background: white;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
