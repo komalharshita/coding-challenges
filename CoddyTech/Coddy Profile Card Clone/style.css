@@ -23,3 +23,73 @@ body{
     background: white;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+
+.corners{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 200px ;
+    color: white;
+}
+
+.pro{
+    background-color: #cf7f26 ;
+    padding: 0px 4px ;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+i {
+    color: #29abe2 ;
+    cursor: pointer ;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.profile-img {
+    width: 100% ;
+    height: 100% ;
+    border-radius: 50% ;
+    object-fit: cover;
+}
+
+.text-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+.name {
+    font-size: 22px;
+    font-weight: bold ;
+}
+.job{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+.mailid{
+    font-size: 15px;
+    font-weight: 500;
+    color: #89c0e5;
+    margin-bottom: 10px;
+}
+
+.media-buttons{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.link{
+    font-size: 18px;
+    width: 24px ;
+    height: 24px;
+    cursor: pointer;
+}
