@@ -89,7 +89,47 @@ i {
 
 .link{
     font-size: 18px;
-    width: 24px ;
-    height: 24px;
+    width: 34px ;
+    height: 34px;
     cursor: pointer;
+}
+
+.button{
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 24px;
+    margin: 0px 10px;
+    padding: 3px 18px;
+    background-color: #4070f4;
+
+}
+
+.buttons{
+    margin-top: 15px;
+}
+#streak {
+    background-color: #01568e; 
+}
+.analytics{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.edit-option{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #89c0e5;
+    margin-bottom: 10px;
+}
+
+.data:last-child {
+    border-right: none;
+}
+hr{
+    width:100% ;
+    margin-top: 30px;
+    color: rgba(241, 241, 241, 0.475);
+    height: 0.3px;
 }
