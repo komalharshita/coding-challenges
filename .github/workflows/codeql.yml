@@ -26,9 +26,7 @@ jobs:
           - language: python
             build-mode: none
           - language: java-kotlin
-            build-mode: none   # change to 'autobuild' if you have Maven/Gradle
-          - language: c-cpp
-            build-mode: manual # prevents autobuild failure
+            build-mode: none   # set to autobuild only if you add Maven/Gradle
           - language: actions
             build-mode: none
 
@@ -41,12 +39,6 @@ jobs:
         with:
           languages: ${{ matrix.language }}
           build-mode: ${{ matrix.build-mode }}
-
-      # Manual build step for C/C++
-      - name: Manual C/C++ build
-        if: matrix.build-mode == 'manual'
-        run: |
-          echo "Skipping C/C++ autobuild — no supported build system present."
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v4
