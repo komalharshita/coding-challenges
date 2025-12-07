@@ -1,0 +1,14 @@
+# Example labeler.yml
+bug:
+  - changed-files:
+      - any-glob-to-any-file: "src/**/*.js"
+      - any-glob-to-any-file: "tests/**/*.test.js"
+  - head-branch: "bugfix/*"
+
+feature:
+  - head-branch: "feature/*"
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: "docs/**/*.md"
+      - any-glob-to-any-file: "*.md"
